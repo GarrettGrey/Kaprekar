@@ -1,2 +1,2 @@
 # Kaprekar
-Kaprekar Tester
+Kaprekar's Constant is 6174 - the number you get when you subtract the digits in that number from greatest to least by the same digits from least to greatest. You also eventually get the same number if you repeat the same process with most other 4-digit numbers. This short C++ program goes through every 4-digit number and finds the numbers that don't reach Kaprekar's constant. See out.txt for the result.
